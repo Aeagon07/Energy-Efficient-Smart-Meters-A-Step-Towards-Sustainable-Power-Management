@@ -39,6 +39,7 @@ Fig.1- Flow Chart: Basic Working of Smart Meter Technology.
 Fig.2- Hardware Circuit Connections.
 
 
+
 IV. RESULT AND DISCUSSION
 The system performance on LoRa networks during real-time energy monitoring was evaluated based on a smaller test. The tests further stressed the ability of the LoRa network to transmit data over distances of up to 10 km in semi-urban areas with low latency and without excessive energy use. The reporting reiterates the dependability and efficiency of the communication aspects of the system, hence being promising regarding the use in future energy monitoring applications. Data transfer allowed for assessing real-time monitoring over long-distance connection, and the connectivity was smooth throughout the testing without having to pause or open any separate file for it.
 The results also confirmed that the data transmission through the LoRa solution was of low power, sustaining the viability of the deployment of the developed system at a larger scale to cover multiple meters. The automatic data gathering mechanism worked well to streamline and lessen manual involvement in the collection of field data. However, the wider impact of this automation, especially for operational efficiencies like reduced time taken in the billing process, was not assessed due to the constraints of the test. 
@@ -58,6 +59,7 @@ Fig 1.2 - Date v/s LORA DATA
 ![image](https://github.com/user-attachments/assets/ce70bdd4-aba8-41fa-8cd1-6c1e26d392a1)
 
 Fig 1.3 - Power v/s Time.
+
 
 
 
