@@ -29,10 +29,13 @@ The system connects to the WiFi via the ESP8266 module with the capability of up
 ିCe billing system is automatic; all information about energy consumption and cost is sent to the user as well as to the utility provider. The user interface canassist in suggesting convenient payment options. In all, the IoT-based smart energy metering system is user-friendly, energy-efficient, reliable, and flexible for modern energy management, hence conveniently enhancing the utility reliability and service convenience to the consumer.
 
 
-                                              ![image](https://github.com/user-attachments/assets/b79ed3db-1cbd-4588-95dc-c3654414d0b3)
+![image](https://github.com/user-attachments/assets/b79ed3db-1cbd-4588-95dc-c3654414d0b3)
+
 Fig.1- Flow Chart: Basic Working of Smart Meter Technology.
 
-                                              ![image](https://github.com/user-attachments/assets/2dc162d5-332a-4516-a707-e5e3dbd96b4e)
+
+![image](https://github.com/user-attachments/assets/2dc162d5-332a-4516-a707-e5e3dbd96b4e)
+
 Fig.2- Hardware Circuit Connections.
 
 
@@ -43,13 +46,17 @@ A comparison table could be developed using the performance metrics from your te
 
 
 
-                                                    ![image](https://github.com/user-attachments/assets/5a5809ee-2429-4065-8c72-e55c9c922403)
+![image](https://github.com/user-attachments/assets/5a5809ee-2429-4065-8c72-e55c9c922403)
+
 Fig 1.1 -  REAL TIME POWER CONSUPMTION DATA
 
-                                                    ![image](https://github.com/user-attachments/assets/a3259af0-6e66-4610-b554-611456831d49)
+
+![image](https://github.com/user-attachments/assets/a3259af0-6e66-4610-b554-611456831d49)
+
 Fig 1.2 - Date v/s LORA DATA
 
-                                                    ![image](https://github.com/user-attachments/assets/ce70bdd4-aba8-41fa-8cd1-6c1e26d392a1)
+![image](https://github.com/user-attachments/assets/ce70bdd4-aba8-41fa-8cd1-6c1e26d392a1)
+
 Fig 1.3 - Power v/s Time.
 
 
